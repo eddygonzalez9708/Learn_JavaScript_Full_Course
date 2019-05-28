@@ -1,0 +1,1 @@
+var a = 9 // Initializing is to declare and assign a value to a variable.
